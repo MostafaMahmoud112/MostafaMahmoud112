@@ -37,7 +37,26 @@ I build **production-grade** systems for clinics, pharmacies, and real-time mess
 ## ▸ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,dotnet,cs,postgres,sqlite,docker,nginx,linux,github,cloudflare&perline=8&theme=dark" alt="stack"/>
+
+<!-- Immersive tech chart (skills as flowing bars) -->
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Ocean&width=850&theme=github_dark&lineCount=3&line1=TypeScript,typescript,3178C6;JavaScript,javascript,F7DF1E;Node.js,nodedotjs,339933;NestJS,nestjs,E0234E;&line2=React,react,61DAFB;Angular,angular,DD0031;.NET,dotnet,512BD4;C%23,csharp,239120;&line3=PostgreSQL,postgresql,4169E1;SQLite,sqlite,003B57;Docker,docker,2496ED;Nginx,nginx,009639;Cloudflare,cloudflare,F38020;GitHub,github,181717;" alt="Tech Ocean chart" width="850"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,dotnet,cs,postgres,sqlite,docker,nginx,linux,github,cloudflare&perline=8&theme=dark" alt="stack icons"/>
+
+<br/><br/>
+
+<!-- Depth chart: how deep I swim in each layer -->
+| Layer | Depth |
+|:---|:---|
+| TypeScript / JS | `████████████████████` |
+| NestJS / Node | `██████████████████░░` |
+| Angular / React | `█████████████████░░░` |
+| .NET / C# | `████████████████░░░░` |
+| SQL (Postgres / SQLite / MSSQL) | `██████████████████░░` |
+| Docker · Nginx · Cloudflare | `█████████████████░░░` |
+
 </div>
 
 <br/>
