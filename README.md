@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Ship+software+that+stays+up.;Hospital+%26+pharmacy+platforms.;WhatsApp+%26+SMS+gateways." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=50&lines=Ship+software+that+stays+up.;Hospital+%26+pharmacy+platforms.;WhatsApp+%26+SMS+gateways." alt="typing"/>
 
 <br/><br/>
 
@@ -20,11 +20,11 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+---
 
 ## ▸ Who I am
 
-I build **production-grade** systems for clinics, pharmacies, and real-time messaging — APIs, dashboards, and cloud deploys that teams actually trust.
+I build **production-grade** systems for clinics, pharmacies, and real-time messaging — APIs, dashboards, and cloud deploys that teams trust.
 
 | Focus | What that means |
 |:---|:---|
@@ -32,75 +32,81 @@ I build **production-grade** systems for clinics, pharmacies, and real-time mess
 | **OpenWA** | Self-hosted WhatsApp & SMS gateway — sessions, webhooks, dashboard |
 | **Ops** | Docker · Nginx · Cloudflare tunnels · health monitoring |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+---
 
 ## ▸ Stack
 
 <div align="center">
 
-<!-- Immersive tech chart (skills as flowing bars) -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Ocean&width=850&theme=github_dark&lineCount=3&line1=TypeScript,typescript,3178C6;JavaScript,javascript,F7DF1E;Node.js,nodedotjs,339933;NestJS,nestjs,E0234E;&line2=React,react,61DAFB;Angular,angular,DD0031;.NET,dotnet,512BD4;C%23,csharp,239120;&line3=PostgreSQL,postgresql,4169E1;SQLite,sqlite,003B57;Docker,docker,2496ED;Nginx,nginx,009639;Cloudflare,cloudflare,F38020;GitHub,github,181717;" alt="Tech Ocean chart" width="850"/>
+### Skill depth (swim chart)
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,dotnet,cs,postgres,sqlite,docker,nginx,linux,github,cloudflare&perline=8&theme=dark" alt="stack icons"/>
-
-<br/><br/>
-
-<!-- Depth chart: how deep I swim in each layer -->
-| Layer | Depth |
-|:---|:---|
-| TypeScript / JS | `████████████████████` |
-| NestJS / Node | `██████████████████░░` |
-| Angular / React | `█████████████████░░░` |
-| .NET / C# | `████████████████░░░░` |
-| SQL (Postgres / SQLite / MSSQL) | `██████████████████░░` |
-| Docker · Nginx · Cloudflare | `█████████████████░░░` |
-
-</div>
+```text
+ TypeScript / JS     ████████████████████  100%
+ NestJS / Node       ██████████████████░░   90%
+ Angular / React     █████████████████░░░   85%
+ .NET / C#           ████████████████░░░░   80%
+ SQL (PG/SQLite/MS)  ██████████████████░░   90%
+ Docker/Nginx/CF     █████████████████░░░   85%
+```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
-
-## ▸ Featured
-
-<div align="center">
-
-<a href="https://github.com/MostafaMahmoud112/WhatsappAndSMSGateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaMahmoud112&repo=WhatsappAndSMSGateway&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&description=Open-source%20WhatsApp%20%26%20SMS%20API%20Gateway" alt="OpenWA pin"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,dotnet,cs,postgres,sqlite,docker,nginx,linux,github,cloudflare&perline=8&theme=dark" alt="stack"/>
 </a>
 
 </div>
 
 <details>
-<summary><b>Pharmacy / CuraSys — hospital & pharmacy platform</b></summary>
+<summary><b>Stack as badges</b></summary>
 <br/>
 
-Full-stack ERP: Angular UI, .NET API, SQL Server, reporting, and public HTTPS hosting with automated health checks.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+---
+
+## ▸ Featured
+
+**[WhatsappAndSMSGateway (OpenWA)](https://github.com/MostafaMahmoud112/WhatsappAndSMSGateway)** — open-source WhatsApp & SMS API Gateway (REST, multi-session, webhooks, dashboard).
+
+<details>
+<summary><b>Pharmacy / CuraSys — hospital & pharmacy platform</b></summary>
+<br/>
+
+Full-stack ERP: Angular UI, .NET API, SQL Server, reporting, and public HTTPS hosting with health checks.
+
+</details>
+
+---
 
 ## ▸ GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaMahmoud112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMahmoud112&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="langs"/>
+<!-- Use demolab mirrors — more reliable on mobile than herokuapp / some vercel pins -->
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaMahmoud112&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMahmoud112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=MostafaMahmoud112&theme=radical&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaMahmoud112&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="graph"/>
+<img src="https://streak-stats.demolab.com?user=MostafaMahmoud112&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="streak"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+---
 
 ## ▸ Contact
 
